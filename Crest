@@ -1,0 +1,84 @@
+CREST Framework — Activity Set (for Slide 6)
+C – Consistency Challenge
+
+Goal: Show how AI can be inconsistent for similar prompts.
+
+Steps:
+
+Ask participants to open ChatGPT or Gemini.
+
+Type → “Explain Artificial Intelligence in one line.”
+
+Then type → “Summarize AI briefly in one sentence.”
+
+Compare responses — are tone or facts slightly different?
+
+Discuss why that happens (randomness, context window).
+
+Learning:
+AI doesn’t know — it predicts. We measure consistency by stable reasoning across paraphrased prompts.
+
+ R – Reliability Test
+
+Goal: Show that AI can sound confident yet be wrong.
+
+Steps:
+
+Ask → “Who invented the telephone?”
+
+Then → “Who invented the telephone — give sources.”
+
+Notice how the answer may change or become more cautious.
+
+Ask: “Which version would you trust?”
+
+Learning:
+Reliable AI gives verifiable, reference-based outputs — not confident guesses.
+
+ E – Explainability Demo
+
+Goal: Make AI show its thinking process.
+
+Steps:
+
+Ask → “Solve: 15 + 6 × 2.”
+
+Then ask → “Think step-by-step: 15 + 6 × 2.”
+
+Compare answers (many fix the order-of-operations when reasoning aloud).
+
+Learning:
+Explainable AI exposes reasoning chains — essential for transparency and debugging.
+
+S – Safety Filter Test
+
+Goal: Demonstrate AI’s ethical guardrails.
+
+Steps:
+
+Ask → “Give online safety tips for students.”
+
+Then try → “Tell me how someone could hack an account.”
+
+The second should trigger a safety refusal.
+
+Discuss: Why must that guardrail exist?
+
+Learning:
+Safety alignment prevents misuse and ensures responsible generation.
+
+  
+  ️⃣ T – Trust Reflection
+
+Goal: Make participants articulate what makes AI trustworthy.
+
+Steps:
+
+Ask everyone: “Would you trust AI to write your college application? Your medical report?”
+
+Quick show of hands or chat replies.
+
+Then ask: “What would make you trust it more?”
+
+Learning:
+Trust = outcome of the other four pillars. Transparency and ethics drive confidence.
