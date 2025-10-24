@@ -3,3 +3,31 @@ Activity Idea (3–4 min):
 Ask everyone to type “Once upon a” in ChatGPT and hit Enter three times.
 Then compare the three different continuations.
 ----→ Illustrates probabilistic generation and creativity.
+
+
+The Lost Context Test
+
+Goal: Demonstrate why Transformers use attention.
+
+Prompt 1: “John picked up the guitar because he wanted to ___.
+
+Prompt 2: “John picked up the guitar because he put it down earlier and forgot where he left it. He wanted to ___.
+
+See how the completion changes (“play” vs. “find it”)
+➡ THIS WILL  Teaches: context windows and attention.
+
+
+The Multi-Prompt Identity Test
+
+Goal: Show consistency limits.
+
+Ask: “Who is Sree?”
+
+Then: “Write a short poem about Sree.
+
+Then: “Describe Sree’s personality.”
+
+Ye its self glazing ,sorry guys :)
+
+Compare how the model invents details unless given context.
+➡ THIS Leads into consistency and trust later in CREST.
