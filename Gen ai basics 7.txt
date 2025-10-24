@@ -1,3 +1,51 @@
 slide 7 and 8 
 
 
+| Concept       | Think of it like                      | Role                              |
+| ------------- | ------------------------------------- | --------------------------------- |
+| Tokenization  | Cutting a cake into slices            | Breaks text into chunks           |
+| Embeddings    | Measuring sweetness of each slice     | Turns chunks into numbers         |
+| Transformer   | The chef tasting all slices together  | Finds connections & meaning       |
+| Generative AI | Baking a new cake with that recipe    | Creates new text, art, or ideas   |
+| Ethical AI    | Health inspector checking the kitchen | Ensures safety, fairness, honesty |
+
+basic concepts given to u for better understanding 
+
+Read the papaer Attention is all you need 
+
+
+THE ACTIVITIES 
+
+1)PLAY WITH TOKENIZERS 
+https://platform.openai.com/tokenizer
+Objective: Make them “feel” tokenization.
+
+Setup:
+Write a short sentence on the board:
+Ask the group to:
+
+Split it into words (tokens).
+
+Then into subwords
+
+Now count how many tokens there are.
+
+Then check the wesbite 
+
+That’s exactly what an LLM does — breaks everything into small tokens, turns them into numbers, and processes meaning piece by piece
+
+
+2)The Attention Game (5 mins)
+
+Objective: Show how Transformers focus on relationships between words.
+
+Write:
+
+“The dog that chased the cat was tired.”
+
+Ask:
+
+“Who was tired — the dog or the cat?”
+
+The answer holds the key for self attention 
+
