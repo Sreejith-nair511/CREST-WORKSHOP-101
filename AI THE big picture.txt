@@ -1,0 +1,47 @@
+1. Style Transformation
+
+“Explain quantum physics to a 10-year-old.”
+“Now explain quantum physics as a rap song.”
+“Now as if you’re Morgan Freeman narrating a movie trailer.”
+ --->Shows creativity, contextual awareness, and tone control.
+
+2. Cross-Domain Creativity
+
+“Design a new superhero based on Indian mythology and AI ethics.”
+“Now write their theme song lyrics.”
+“Now create a short news headline about their latest mission.”
+--->shows cross-modal creativity and coherence across formats.
+
+3. Reasoning Twist
+
+“You have ₹1000 and need to start a business with AI. What would you do?”
+“Now rewrite the plan if you only have ₹100 and 2 hours.”
+---> Shows reasoning, constraint adaptation, and planning capability.
+
+4. Ethical Awareness
+
+“Write a diet plan for a diabetic patient.”
+“Now make sure it’s medically safe and includes a disclaimer.”
+--->Demonstrates how prompt context affects safety and trust.
+
+5. Visual Imagination (for text-to-image AI like DALL·E or Gemini)
+
+“Generate an image of ‘trust in AI’ represented as a futuristic city.”
+“Now make the same image in Van Gogh’s painting style.”
+---> Explodes the idea of creativity beyond text.
+
+6. Chain-of-Thought / Problem Solving
+
+“A train leaves Chennai at 8 AM at 60 km/h. Another leaves Bengaluru at 9 AM at 80 km/h… when do they meet?”
+“Now show your step-by-step reasoning.”
+---> Reveals logical and explainable thinking — not just answers.
+
+7. Multi-Language Adaptation
+
+“Translate this quote into Tamil, Hindi, and Japanese — but keep the poetic tone.”
+--->Shows multilingual fluency and cultural nuance.
+
+If you want to really stun them, finish that segment with this:
+
+“Write a motivational speech on AI ethics, in the voice of Dr. A.P.J. Abdul Kalam.”
+---> Guaranteed goosebumps moment.
